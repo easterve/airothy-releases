@@ -34,5 +34,28 @@
 
       See ../DISTRIBUTION.md in the source repo for the full release runbook.
     -->
+
+    <item>
+      <title>1.0.0-beta.1</title>
+      <pubDate>Mon, 18 May 2026 00:39:59 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>First beta of AirothyServer — control your Mac from your iPhone.</p>
+        <ul>
+          <li>Pair your iPhone with your Mac and use it as a trackpad and keyboard.</li>
+          <li>3-finger swipes for Mission Control and Spaces.</li>
+          <li>Function-row keys, media controls, and modifiers.</li>
+          <li>In-app auto-updates (you'll get a prompt when the next build ships).</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/easterve/airothy-releases/releases/download/v1.0.0-beta.1/AirothyServer-1.0.0-beta.1.dmg"
+        sparkle:edSignature="G2npNUQyJDf9uRZf48/gCmYQ5p3jfh1jjsD+xHIXb+HrFc3onHb+xIGLkbv6v/w5ftqCCaVoJtdzs2Vnn0xYAQ=="
+        length="9095578"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
