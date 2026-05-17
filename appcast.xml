@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AirothyServer</title>
+    <description>Auto-update feed for the Airothy macOS server.</description>
+    <link>https://github.com/easterve/airothy-releases</link>
+    <language>en</language>
+    <!--
+      Add release items below, most recent first.
+
+      Stable release item (visible to everyone):
+
+        <item>
+          <title>1.0.0</title>
+          <pubDate>Sun, 17 May 2026 16:00:00 +0900</pubDate>
+          <sparkle:version>1</sparkle:version>
+          <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+          <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+          <description><![CDATA[<ul><li>Initial release.</li></ul>]]></description>
+          <enclosure
+            url="https://github.com/easterve/airothy-releases/releases/download/v1.0.0/AirothyServer.dmg"
+            sparkle:edSignature="ED_SIGNATURE_FROM_sign_update"
+            length="BYTE_LENGTH_FROM_sign_update"
+            type="application/octet-stream" />
+        </item>
+
+      Beta release item (visible only to users who toggled "Receive beta updates"):
+
+        <item>
+          <title>1.1.0-beta.1</title>
+          <sparkle:channel>beta</sparkle:channel>
+          ...
+        </item>
+
+      See ../DISTRIBUTION.md in the source repo for the full release runbook.
+    -->
+  </channel>
+</rss>
