@@ -37,7 +37,7 @@
 
     <item>
       <title>1.0.0-beta.1</title>
-      <pubDate>Mon, 18 May 2026 00:39:59 +0900</pubDate>
+      <pubDate>Sat, 23 May 2026 13:29:55 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.0-beta.1</sparkle:shortVersionString>
@@ -53,8 +53,8 @@
       ]]></description>
       <enclosure
         url="https://github.com/easterve/airothy-releases/releases/download/v1.0.0-beta.1/AirothyServer-1.0.0-beta.1.dmg"
-        sparkle:edSignature="G2npNUQyJDf9uRZf48/gCmYQ5p3jfh1jjsD+xHIXb+HrFc3onHb+xIGLkbv6v/w5ftqCCaVoJtdzs2Vnn0xYAQ=="
-        length="9095578"
+        sparkle:edSignature="IpvjpekB7NFPx9VbgXpkEsrNlWSD/TlXaG+MbVHXdQCodgxieKjIUgmgjq8IEnFtUtmLlQuRYkOwUt8lvoYTAA=="
+        length="9095493"
         type="application/octet-stream" />
     </item>
   </channel>
