@@ -36,6 +36,29 @@
     -->
 
     <item>
+      <title>1.0.0-beta.4</title>
+      <pubDate>Fri, 03 Jul 2026 18:37:08 +0900</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-beta.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Fourth beta of AirothyServer — remote display sleep/wake and a refreshed pairing screen.</p>
+        <ul>
+          <li>Sleep the Mac's screen and wake it from your iPhone — the sleep button can now turn off the display while keeping the Mac connected, so touching the trackpad wakes it back. Choose "Sleep Display" (default) or "Sleep Mac" in the iPhone app's settings.</li>
+          <li>Redesigned pairing screen with one-time-code boxes, auto-submit, and a shake on an incorrect code.</li>
+          <li>Fixed a QR-code pairing issue caused by a double-submit.</li>
+        </ul>
+        <p>This release updates the wire protocol to v4 — update the Airothy iPhone app to the matching beta as well. Existing pairings are preserved.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/easterve/airothy-releases/releases/download/v1.0.0-beta.4/AirothyServer-1.0.0-beta.4.dmg"
+        sparkle:edSignature="+CBooghOVwOoBewNtJ3g0hnm3v8wCdS+/ceVBTgL63e76yxyGYg0A+v5WyUHl16eSPHthntmnQKLr7ACunMXAA=="
+        length="43693402"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>1.0.0-beta.3</title>
       <pubDate>Tue, 02 Jun 2026 23:26:28 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
