@@ -36,6 +36,29 @@
     -->
 
     <item>
+      <title>1.0.0</title>
+      <pubDate>Sun, 05 Jul 2026 21:00:21 +0900</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>First stable release of Airothy for Mac. Use your iPhone as a wireless trackpad and keyboard for your Mac.</p>
+        <ul>
+          <li>Trackpad with the full gesture set: pointer, clicks, scrolling, pinch to zoom, drag and drop, and three-finger swipes for Mission Control and Spaces.</li>
+          <li>Full-screen Mac keyboard with modifiers, function keys, and input-source switching.</li>
+          <li>Secure pairing with a 6-digit code or QR code; commands are authenticated end to end.</li>
+          <li>Sleep and wake the Mac's display from your iPhone.</li>
+          <li>Localized in 8 languages.</li>
+        </ul>
+        <p>Changes since 1.0.0-beta.4: fixed onboarding titles truncating in some languages, and the welcome screen's "learn how to use" link wrapping in German and French.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/easterve/airothy-releases/releases/download/v1.0.0/AirothyServer-1.0.0.dmg"
+        sparkle:edSignature="5/trdBrTkDuhLzJeZHclOCYrMZsg9UrrGs/EbLN9JY+YwgjRaZAsnIutWBSHvkDHAGNpQpei1H8WoaHMDpcFAg==" length="43694117"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>1.0.0-beta.4</title>
       <pubDate>Fri, 03 Jul 2026 18:37:08 +0900</pubDate>
       <sparkle:channel>beta</sparkle:channel>
