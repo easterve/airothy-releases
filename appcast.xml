@@ -37,23 +37,21 @@
 
     <item>
       <title>1.0.0</title>
-      <pubDate>Sat, 25 Jul 2026 17:04:44 +0900</pubDate>
-      <sparkle:version>5</sparkle:version>
+      <pubDate>Sat, 05 Sep 2026 18:22:05 +0900</pubDate>
+      <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
         <p>Updated build of Airothy for Mac 1.0.0. Use your iPhone as a wireless trackpad and keyboard for your Mac.</p>
         <p>What's new in this build:</p>
         <ul>
-          <li>Faster disconnect detection: the Mac now acknowledges every heartbeat from the phone, so a lost connection is noticed in seconds.</li>
-          <li>iPad-aware dashboard: paired devices are no longer assumed to be iPhones, with correct model names and artwork.</li>
-          <li>The Mac's "Use F1, F2, etc. keys as standard function keys" setting is now shared with the phone, so the on-screen function row matches your real keyboard.</li>
-          <li>Refreshed device artwork and updated translations.</li>
+          <li>Ready for the two-finger Back and Forward swipe coming in the next iPhone app update: a quick two-finger flick goes back and forward in Safari, Chrome, Finder, and other apps with swipe navigation.</li>
+          <li>Natural scrolling now matches macOS: turning it off in the dashboard flips horizontal scrolling too, not just vertical.</li>
         </ul>
       ]]></description>
       <enclosure
         url="https://github.com/easterve/airothy-releases/releases/download/v1.0.0/Airothy-for-Mac-1.0.0.dmg"
-        sparkle:edSignature="pLzh0+HWdE3qtYgTeIV1xDyUwd7/Q8Q524SdiX5ajTdAGma/W7hKwNbrZSS/ikLsp2F7j7xa+wKT2RgeLUiuBQ==" length="34379549"
+        sparkle:edSignature="yG8j0jXujTQa07vvAIEnUp1qU74dM2o/imuUAxWNaJ+W4g0rLpu09KNBYHXCa8AjQh2Y07WKNSBGQsQ3DErzBw==" length="34400758"
         type="application/octet-stream" />
     </item>
 
